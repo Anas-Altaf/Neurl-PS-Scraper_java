@@ -63,7 +63,7 @@ Neurl-PS-Scraper is a command-line application designed to help you fetch and ma
 
 >## Video
 
-*(Placeholder for Video)*
+https://github.com/user-attachments/assets/83de5513-af79-403d-b2e2-37aa0d3e7d3f
 
 >## Screenshots
 
